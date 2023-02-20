@@ -4435,3 +4435,323 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2023-02-14 19:28:54,174 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2023-02-14 19:28:54,180 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-02-14 19:28:54,180 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-15 19:06:23,417 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-02-15 19:35:52,600 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 19:35:52,606 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-15 19:35:52,627 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-15 19:35:52,633 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 19:35:52,633 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-15 20:01:09,905 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 20:01:09,910 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-15 20:01:09,915 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-15 20:01:09,921 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 20:01:09,922 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-15 20:02:47,516 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 20:02:47,520 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-15 20:02:47,524 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-15 20:02:47,529 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 20:02:47,529 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-15 20:08:00,982 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 20:08:00,988 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-15 20:08:00,993 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-15 20:08:00,999 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 20:08:00,999 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-15 20:11:17,903 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 20:11:17,907 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-15 20:11:17,911 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-15 20:11:17,915 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 20:11:17,916 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-15 20:14:33,510 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 20:14:33,512 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-15 20:14:33,516 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-15 20:14:33,520 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 20:14:33,520 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-15 21:07:29,016 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 21:07:29,018 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-15 21:07:29,021 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-15 21:07:29,035 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 21:07:29,035 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-15 21:10:18,396 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 21:10:18,398 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-15 21:10:18,401 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-15 21:10:18,404 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 21:10:18,405 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-15 21:11:06,898 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 21:11:06,900 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-15 21:11:06,902 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-15 21:11:06,907 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 21:11:06,907 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-15 21:12:21,000 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 21:12:21,002 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-15 21:12:21,004 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-15 21:12:21,008 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 21:12:21,009 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-15 21:17:51,999 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 21:17:52,001 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-15 21:17:52,005 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-15 21:17:52,009 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 21:17:52,009 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-15 21:19:21,283 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 21:19:21,285 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-15 21:19:21,288 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-15 21:19:21,292 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-15 21:19:21,293 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-16 18:02:53,919 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-02-16 18:11:21,669 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-16 18:11:21,681 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-16 18:11:21,717 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-16 18:11:21,730 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-16 18:11:21,730 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-18 18:01:50,911 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-02-18 18:02:46,064 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-18 18:02:46,069 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-18 18:02:46,087 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-18 18:02:46,094 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-18 18:02:46,094 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 09:17:27,391 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-02-19 09:29:54,980 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 09:29:54,988 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 09:29:55,017 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 09:29:55,024 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 09:29:55,025 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 09:30:47,555 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 09:30:47,559 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 09:30:47,565 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 09:30:47,571 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 09:30:47,571 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 09:37:16,359 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 09:37:16,361 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 09:37:16,364 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 09:37:16,368 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 09:37:16,369 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 09:38:46,915 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 09:38:46,917 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 09:38:46,920 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 09:38:46,927 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 09:38:46,931 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 09:40:19,840 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 09:40:19,842 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 09:40:19,844 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 09:40:19,848 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 09:40:19,849 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 09:43:15,846 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 09:43:15,848 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 09:43:15,851 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 09:43:15,855 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 09:43:15,856 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 10:10:00,210 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 10:10:00,212 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 10:10:00,215 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 10:10:00,219 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 10:10:00,219 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 10:11:08,954 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 10:11:08,956 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 10:11:08,960 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 10:11:08,965 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 10:11:08,966 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 10:13:16,732 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 10:13:16,734 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 10:13:16,752 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 10:13:16,756 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 10:13:16,756 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 10:14:43,058 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 10:14:43,060 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 10:14:43,062 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 10:14:43,066 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 10:14:43,066 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 10:28:38,803 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 10:28:38,804 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 10:28:38,807 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 10:28:38,812 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 10:28:38,812 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 11:18:46,898 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 11:18:46,901 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 11:18:46,906 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 11:18:46,911 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 11:18:46,912 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 11:32:28,041 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 11:32:28,044 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 11:32:28,046 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 11:32:28,050 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 11:32:28,051 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 11:33:16,603 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 11:33:16,605 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 11:33:16,608 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 11:33:16,613 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 11:33:16,613 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 11:39:09,868 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 11:39:09,871 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 11:39:09,874 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 11:39:09,879 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 11:39:09,880 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 18:35:35,380 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 18:35:35,382 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 18:35:35,385 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 18:35:35,389 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 18:35:35,389 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 18:36:12,415 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 18:36:12,417 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 18:36:12,419 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 18:36:12,425 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 18:36:12,426 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 18:36:46,347 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 18:36:46,348 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 18:36:46,351 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 18:36:46,354 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 18:36:46,355 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 18:38:58,542 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 18:38:58,544 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 18:38:58,546 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 18:38:58,549 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 18:38:58,550 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 19:20:36,831 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 19:20:36,833 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-19 19:20:36,834 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 19:20:36,843 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 19:20:36,844 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 19:25:51,760 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 19:25:51,762 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 19:25:51,764 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 19:25:51,768 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 19:25:51,768 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 20:07:19,501 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 20:07:19,504 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 20:07:19,506 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 20:07:19,511 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 20:07:19,511 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 20:36:46,296 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 20:36:46,297 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 20:36:46,300 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 20:36:46,303 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 20:36:46,303 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 20:37:37,608 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 20:37:37,610 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 20:37:37,612 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 20:37:37,616 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 20:37:37,616 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 20:39:35,896 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 20:39:35,898 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 20:39:35,900 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 20:39:35,904 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 20:39:35,904 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 20:40:00,042 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 20:40:00,044 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 20:40:00,047 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 20:40:00,051 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 20:40:00,051 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 20:44:56,260 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 20:44:56,262 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 20:44:56,264 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 20:44:56,268 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 20:44:56,268 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 20:45:54,896 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 20:45:54,898 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 20:45:54,900 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 20:45:54,904 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 20:45:54,904 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 20:46:31,630 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 20:46:31,632 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 20:46:31,660 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 20:46:31,677 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 20:46:31,678 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 20:47:22,574 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 20:47:22,576 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 20:47:22,578 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 20:47:22,586 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 20:47:22,586 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 21:37:01,840 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 21:37:01,843 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 21:37:01,845 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 21:37:01,849 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 21:37:01,849 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 21:40:46,881 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 21:40:46,883 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 21:40:46,886 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 21:40:46,893 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 21:40:46,895 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 21:42:58,982 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 21:42:58,984 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 21:42:58,987 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 21:42:58,991 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 21:42:58,991 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 21:53:07,759 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 21:53:07,761 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 21:53:07,763 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 21:53:07,767 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 21:53:07,768 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 21:54:05,502 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 21:54:05,504 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 21:54:05,506 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 21:54:05,509 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 21:54:05,509 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 21:55:04,252 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 21:55:04,253 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 21:55:04,256 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 21:55:04,259 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 21:55:04,259 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 21:55:43,630 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 21:55:43,631 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 21:55:43,634 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 21:55:43,638 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 21:55:43,638 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 21:56:26,126 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 21:56:26,128 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 21:56:26,130 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 21:56:26,134 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 21:56:26,134 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 21:56:54,570 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 21:56:54,572 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 21:56:54,574 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 21:56:54,577 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 21:56:54,578 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 22:00:55,060 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 22:00:55,063 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 22:00:55,067 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 22:00:55,071 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 22:00:55,072 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 22:02:51,477 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 22:02:51,479 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 22:02:51,481 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 22:02:51,485 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 22:02:51,485 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 22:04:01,997 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 22:04:01,999 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 22:04:02,001 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 22:04:02,005 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 22:04:02,005 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 22:04:17,431 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 22:04:17,434 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 22:04:17,437 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 22:04:17,443 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 22:04:17,443 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 22:12:40,072 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 22:12:40,075 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 22:12:40,082 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 22:12:40,087 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 22:12:40,088 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 22:15:01,986 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 22:15:01,988 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 22:15:01,990 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 22:15:01,993 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 22:15:01,994 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 22:15:04,632 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 22:15:04,634 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 22:15:04,636 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 22:15:04,640 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 22:15:04,641 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-19 22:16:07,204 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 22:16:07,206 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-19 22:16:07,208 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-19 22:16:07,211 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-19 22:16:07,211 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-20 00:19:25,106 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-20 00:19:25,108 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-20 00:19:25,111 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-20 00:19:25,115 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-20 00:19:25,115 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources
+2023-02-20 08:09:02,065 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-02-20 08:17:50,527 [Worker-16: Launching spring-boot-backend-apirest-test - SpringBootBackendApirestApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-20 08:17:50,536 [Worker-16: Launching spring-boot-backend-apirest-test - SpringBootBackendApirestApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-20 08:17:50,554 [Worker-16: Launching spring-boot-backend-apirest-test - SpringBootBackendApirestApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-20 08:17:50,571 [Worker-16: Launching spring-boot-backend-apirest-test - SpringBootBackendApirestApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-20 08:17:50,571 [Worker-16: Launching spring-boot-backend-apirest-test - SpringBootBackendApirestApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\APC-BERUTTI\Documents\ESTEBAN\SPRING\workspace\octupus-proyect-spring-boot-backend-apirest\src\test\resources

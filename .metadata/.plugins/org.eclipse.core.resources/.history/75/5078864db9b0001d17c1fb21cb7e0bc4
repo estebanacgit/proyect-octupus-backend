@@ -1,0 +1,51 @@
+package com.proy.octupus.springboot.backend.apirest.models.entity;
+
+import java.io.Serializable;
+
+import javax.persistence.Entity;
+import javax.persistence.FetchType;
+import javax.persistence.JoinColumn;
+import javax.persistence.OneToOne;
+import javax.persistence.Table;
+
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
+//@Entity
+//@Table(name = "usuarios_roles")
+public class UserRole implements Serializable {
+
+	/*
+	 * 
+	 
+	@JsonIgnoreProperties({ "hibernateLazyInitializer", "handler" })
+	@OneToOne(fetch = FetchType.LAZY)
+	@JoinColumn(name = "usuario_id")
+	private Usuario usuario;
+
+	@JsonIgnoreProperties({ "hibernateLazyInitializer", "handler" })
+	@OneToOne(fetch = FetchType.LAZY)
+	@JoinColumn(name = "role_id")
+	private Role role;
+
+	public Usuario getUsuario() {
+		return usuario;
+	}
+
+	public void setUsuario(Usuario usuario) {
+		this.usuario = usuario;
+	}
+
+	public Role getRole() {
+		return role;
+	}
+
+	public void setRole(Role role) {
+		this.role = role;
+	}
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+}

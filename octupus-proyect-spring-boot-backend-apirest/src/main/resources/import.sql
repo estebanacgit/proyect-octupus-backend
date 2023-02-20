@@ -23,11 +23,12 @@ INSERT INTO clientes (region_id, nombre, apellido, email, create_at) VALUES(6, '
 INSERT INTO clientes (region_id, nombre, apellido, email, create_at) VALUES(7, 'Jade', 'Doe', 'jane.doe@gmail.com', '2018-03-06');
 
 /* Creamos algunos usuarios con sus roles */
-INSERT INTO `usuarios` (username, password, enabled, nombre, apellido, email) VALUES ('esteban','$2a$10$C3Uln5uqnzx/GswADURJGOIdBqYrly9731fnwKDaUdBkt/M3qvtLq',1, 'Esteban', 'Acosta','esteban@proyoctupus.com');
-INSERT INTO `usuarios` (username, password, enabled, nombre, apellido, email) VALUES ('admin','$2a$10$RmdEsvEfhI7Rcm9f/uZXPebZVCcPC7ZXZwV51efAvMAp1rIaRAfPK',1, 'Admin', 'Admin','admin@proyoctupus.com');
 
 INSERT INTO `roles` (nombre) VALUES ('ROLE_USER');
 INSERT INTO `roles` (nombre) VALUES ('ROLE_ADMIN');
+
+INSERT INTO `usuarios` (username, password, enabled, nombre, apellido, email) VALUES ('esteban','$2a$10$C3Uln5uqnzx/GswADURJGOIdBqYrly9731fnwKDaUdBkt/M3qvtLq',1, 'Esteban', 'Acosta','esteban@proyoctupus.com');
+INSERT INTO `usuarios` (username, password, enabled, nombre, apellido, email) VALUES ('admin','$2a$10$RmdEsvEfhI7Rcm9f/uZXPebZVCcPC7ZXZwV51efAvMAp1rIaRAfPK',1, 'Admin', 'Admin','admin@proyoctupus.com');
 
 INSERT INTO `usuarios_roles` (usuario_id, role_id) VALUES (1, 1);
 INSERT INTO `usuarios_roles` (usuario_id, role_id) VALUES (2, 2);

@@ -6,7 +6,6 @@ import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.Ordered;
-import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpMethod;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.oauth2.config.annotation.web.configuration.EnableResourceServer;
@@ -23,6 +22,8 @@ public class ResourceServerConfig extends ResourceServerConfigurerAdapter {
 	@Override
 	public void configure(HttpSecurity http) throws Exception {
 		http.authorizeRequests().antMatchers(HttpMethod.GET, "/api/clientes", "/api/clientes/page/**", "/api/uploads/img/**", "/images/**").permitAll()
+		.antMatchers("/api/productos/**").permitAll()
+		.antMatchers("/api/usuarios/**").permitAll()
 		//.antMatchers("/api/clientes/{id}").permitAll()
 		//.antMatchers("/api/facturas/**").permitAll()
 		/*.antMatchers(HttpMethod.GET, "/api/clientes/{id}").hasAnyRole("USER", "ADMIN")
